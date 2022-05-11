@@ -1,7 +1,7 @@
 # MiAI_EfficientNet
 Demo of using EfficientNet to classify bad guy/good guy
 
-Video link:  https://www.miai.vn/2021/12/03/phat-hien-va-lam-mo-mat-tu-dong-nhu-japan-av/
+Video link: https://youtu.be/ZLnY2oaMaBY<br>
 Link data: https://miai.vn/thu-vien-mi-ai  
 
 #MìAI <br>
